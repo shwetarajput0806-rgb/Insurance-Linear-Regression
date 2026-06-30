@@ -38,7 +38,7 @@ This project focuses on predicting medical insurance charges using a Linear Regr
 
 🛠️ Technologies Used
 
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
