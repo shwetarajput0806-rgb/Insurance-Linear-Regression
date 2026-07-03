@@ -32,7 +32,7 @@ This project focuses on predicting medical insurance charges using a Linear Regr
 3. Feature Engineering
 4. Feature Scaling
 5. Model Building using Linear Regression
-6. Model Evaluation
+6. Model Evaluation.
 
 ---
 
@@ -60,7 +60,7 @@ This project focuses on predicting medical insurance charges using a Linear Regr
 
 - Smoking has a significant impact on insurance charges
 - BMI and age are also strong predictors
-- Linear Regression provides a good baseline model
+- Linear Regression provides a good baseline model.
 
 ---
 
@@ -69,7 +69,7 @@ This project focuses on predicting medical insurance charges using a Linear Regr
 1. Clone the repository
 2. Install dependencies:
    pip install -r requirements.txt
-3. Run the notebook or script
+3. Run the notebook or script.
 
 ---
 
@@ -77,7 +77,7 @@ This project focuses on predicting medical insurance charges using a Linear Regr
 
 - Try advanced models (Random Forest, XGBoost)
 - Hyperparameter tuning
-- Deploy the model using Flask/Streamlit
+- Deploy the model using Flask/Streamlit.
 
 ---
 
